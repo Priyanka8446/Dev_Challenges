@@ -1,0 +1,19 @@
+:root{
+  --bg-dark: #111315;
+  --bg-light: #1B1D1F;
+  --bg-gray: #6F757C;
+  --green-color: #BEE3CC;
+  --white-color: #FEF7EE;
+  --yellow-color: #F6C768;
+  --red-color: #ED735D;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: var(--bg-dark);
+}
